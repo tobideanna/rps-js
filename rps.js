@@ -63,9 +63,3 @@ function playRound(){
 }
 
 playRound();
-/* primero, get human choice.
-    segundo, get compputer choice
-    tercero, comparar los choices con logica
-    si el humano gana, sumar 1 pinto a human score
-    si la pc gana, viceversa
-    repetir hasta que human score o computer score == 3*/
